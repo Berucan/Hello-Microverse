@@ -1,34 +1,41 @@
 
+# Project Name
 
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
+> Hello Microverse.
+
+This is my first project as a Micronaut called Hello Microverse.
+
+![Screenshot 2022-01-06 at 14 00 21](https://user-images.githubusercontent.com/92875711/148372950-cd0ed60e-f5d3-4b64-aaf8-15d65b81666d.png)
 
 
-To get a local copy up and running follow these simple example steps.
 
- ### Prerequisites  
+Additional description about the project and its features using the concept of linters.
 
- ### Setup  
 
- ### Usage  
- 
- ### Run tests  
- 
- ### Deployment  
+## Built With
+
+- HTML
+- CSS
+- GIT
+
 
 ## Authors
 
-👤 **Author1
+👤 **Berucan Daisy**
 
-* GitHub: [@Berucan](https://github.com/Berucan)
-
-* Twitter: [@daisyberucan](https://twitter.com/home)
-
-* LinkedIn: [Daisy Berucan](https://www.linkedin.com/in/daisy-berucan-07949814b/)
+- GitHub: [@Berucan](https://github.com/Berucan)
+- Twitter: [@daisyberucan](https://twitter.com/home)
+- LinkedIn: [Daisy Berucan](https://www.linkedin.com/in/daisy-berucan-07949814b/)
 
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
+
+Feel free to check the [issues page](../../issues/).
+
+## Show your support
+
+Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
